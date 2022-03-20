@@ -1,5 +1,5 @@
 Faydalı keçidlər:
 
-[Fundamental biliklər](https://fundamentals.alicenab.com)
+[Fundamental biliklər](https://fundamental.alicenab.com)
 
 [Python](https://python.alicenab.com)
