@@ -1,4 +1,5 @@
 Faydalı keçidlər:
 
-[Kiber təhlükəsizlik](https://kt.alicenab.com)
+[Fundamental biliklər](https://fundamentals.alicenab.com)
+
 [Python](https://python.alicenab.com)
